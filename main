@@ -1,0 +1,7 @@
+local gameid = game.PlaceId
+if(gameid == 6722284015) then
+https://raw.githubusercontent.com/lenikkk/computer-bot/main/pistol%201v1 -- pistol 1v1
+print("place valid")
+else
+print("place invalid")
+end
